@@ -1,10 +1,9 @@
-Nodejs SMPP Boilerplate
-=======================
+# Node SMPP
 
 A starter kit for Nodejs SMPP application with MySQL database support.
 
-Dependencies
-============
+## Dependencies
+
 * shorty
 * mysql
 * sequelize
